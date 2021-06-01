@@ -12,8 +12,8 @@ Problem
 
 Solution
 - add HTML target attribute
-	- <target="_blank">
+- target="_blank"
 
 #til: 
-	- _blank: automatically open a new tab
-	- blank: open in the same tab
+	- `_blank`: automatically open a new tab
+	- `blank`: open in the same tab
