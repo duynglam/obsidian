@@ -1,0 +1,2 @@
+# obsidian
+#til, #news, anything. 
