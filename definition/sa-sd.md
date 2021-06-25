@@ -5,11 +5,11 @@ title: eli5 SA <> SD
 ---
 
 ## Software Architecture (SA)
-sum up line
+**Sum up**
 - structure the software
-- answer for: what we are building
+- Answer for: what we are building
 
-WHAT
+**WHAT**
 Software Architecture (SA) 
 create a complete system architecture. 
 
@@ -19,33 +19,33 @@ A software must have the charateristics (based on biz requirement). SA helps con
 
 SA prevents the accumulation of technical debts.
 
-EXAMPLE
+**EXAMPLE**
 - Microservices 
 - Monolith
 - Event-Driven
 - Serverless
 
-HOW
+**HOW**
 The architecture descision must based on business requirement (scaling/ traffice volume, ...etc) 
 Helps achieve biz goal and tech strategy
 
 ## Software Design
-sum up line
+**Sum up**
 - implement the software
 - answer for: how we are building
 
-WHAT
+**WHAT**
 Software Design (SD) arranging the order of component is called software design. 
 
 SD responsible for code-level design. 
 - what each module is doing
 - what problem does each module esolve
 
-EXAMPLE
+**EXAMPLE**
 - Factory pattern
 - Adapter pattern
 
-HOW
+**HOW**
 - Decide the function of each component and how they interact with others.
 - Create the specifications of software artifacts. How individual modules/ components are amde and interact with each other
 - Follows the SOLID principle
