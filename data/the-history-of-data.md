@@ -1,5 +1,5 @@
 ---
-tag: data, history
+tags: data 
 ---
 - since when
 - by whom

@@ -1,3 +1,6 @@
+---
+tags: architecture, design
+---
 [Software Architecture is Overrated, Clear and Simple Design is Underrated - The Pragmatic Engineer](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
 
 Moral: 

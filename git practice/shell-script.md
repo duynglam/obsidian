@@ -1,5 +1,5 @@
 ---
-tag: data, shell script
+tags: git
 ---
 
 ### Shell

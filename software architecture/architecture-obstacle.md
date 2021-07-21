@@ -1,5 +1,5 @@
 ---
-tag: architecture
+tags: architecture
 ---
 #### citation
 - [George Fairbanks - IEEE Software - The Pragmatic Designer: Why Is It Getting Harder to Apply Software Architecture?](https://www.georgefairbanks.com/ieee-software-v38-n4-july-2021-why-is-it-getting-harder-to-apply-software-architecture)

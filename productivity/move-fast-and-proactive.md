@@ -1,5 +1,5 @@
 ---
-tag: mindset
+tags: productivity
 ---
 
 source: [Move fast, but understand the problem first (jacobobryant.com)](https://jacobobryant.com/blog/understand/)

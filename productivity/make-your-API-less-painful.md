@@ -1,5 +1,5 @@
 ---
-tag: API
+tags: productivity, API
 URL: https://edmz.org/personal/2021/05/27/small_things_that_make_apis_a_little_bit_better.html
 title: Make your API less painful
 ---

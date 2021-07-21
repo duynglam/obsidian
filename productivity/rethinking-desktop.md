@@ -1,5 +1,5 @@
 ---
-tag: desktop, internet, storage
+tags: productivity
 URL: https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40
 title: Why Desktop Needs Rethinking
 ---

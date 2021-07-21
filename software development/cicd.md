@@ -1,5 +1,5 @@
 ---
-tag: integration, development, cicd
+tags: development, cicd
 URL: https://kylefarmer85.medium.com/what-is-ci-cd-76d71b82898d
 title: CI?CD eli5
 ---

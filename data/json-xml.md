@@ -1,5 +1,5 @@
 ---
-tag: data, json, xml
+tags: data 
 URL: https://dzone.com/articles/json-vs-xml-which-one-is-better
 title: JSON vs XML - The Difference
 ---

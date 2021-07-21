@@ -1,3 +1,6 @@
+---
+tags: development
+---
 ![[Screen Shot 2021-07-10 at 10.42.37.png]]
 
 **Semantic Versioning**

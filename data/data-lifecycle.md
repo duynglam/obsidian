@@ -1,5 +1,7 @@
 ---
-tag: data, lifecycle
+tags: data 
+URL: https://www.thinkautomation.com/eli5/the-data-lifecycle-explained/
+title: data-lifecycle
 ---
 
 #### Explaining

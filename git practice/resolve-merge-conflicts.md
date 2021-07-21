@@ -1,5 +1,5 @@
 ---
-tag: git, merge, conflict, solution
+tags: git
 ---
 
 ### what is merge conflicts

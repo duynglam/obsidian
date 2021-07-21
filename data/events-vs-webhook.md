@@ -1,4 +1,6 @@
-
+---
+tags: data
+---
 
 Webhook purpose is for real-time update on data/information. triggered by events
 it delivers data from one app to another immediately 

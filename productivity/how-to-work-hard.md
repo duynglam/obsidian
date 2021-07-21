@@ -1,6 +1,5 @@
 ---
-tag: work, habit
----
+tags: productivity
 ---
 http://paulgraham.com/hwh.html
 

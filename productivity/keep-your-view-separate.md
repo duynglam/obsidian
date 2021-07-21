@@ -1,5 +1,5 @@
 ---
-tag: UI, development, view, soc
+tags: productivity
 URL: https://codecat15.medium.com/keep-your-views-separate-a1f475bfaf4f
 title: Keep your view separate
 ---

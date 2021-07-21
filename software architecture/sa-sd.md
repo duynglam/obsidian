@@ -1,5 +1,5 @@
 ---
-tag: architecture, software
+tags: architecture
 URL: https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830
 title: eli5 SA <> SD
 ---

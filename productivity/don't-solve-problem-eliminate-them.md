@@ -1,5 +1,5 @@
 ---
-tag: problem
+tags: productivity
 URL: https://kentcdodds.com/blog/don-t-solve-problems-eliminate-them
 title: Don't solve problem. Eliminate them
 ---
