@@ -21,7 +21,7 @@ stands for verification model/ validation model
 - each development step comes with a corresponding test phase
 - ensures the process move toward the same goal: build error-free product
 
-![[v-model.png]]
+![v-model.png]
 
 
 **Core principles of V-Model**
