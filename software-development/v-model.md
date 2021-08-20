@@ -2,7 +2,7 @@
 tags: testing
 ---
 
-**V-model**
+**V-Model**
 stands for verification model/ validation model
 
 **Keyword for Getting Started**
@@ -21,14 +21,22 @@ stands for verification model/ validation model
 - each development step comes with a corresponding test phase
 - ensures the process move toward the same goal: build error-free product
 
+**Core principles of V-Model**
+- In V-model, testing is done in hierarchy. It breaks down from high-level design to detailed designs.
+- Transparency in data and processes. Thus, documents are required to maintain the app once it's available in prod env.
+- Scalability. The testing model must capable of adapting to the project size, complexity and duration. 
 
-**Scenarios for to apply**
-- short term project
-- requirement are not changing frequently
-- resources are stable and available
+**Scenarios to apply V-Model**
+- fixed & defined requirement
+- stable and available resource
 
-personally I think v model aims on verify and validate each activity in the circle. by then, developers can head for an error-free and quality product. 
+Personally I think V-Model aims on verify and validate each activity in the circle. By then, developers can head for an error-free and quality product. 
 
-though some downsides may be mentioned
+Though some downsides may be mentioned
 - does not support concurrent activities. 
 - hard to apply for project with complex and changable requirement
+
+---
+
+**More reading**
+- [Modify The Traditional V-Model](https://insights.sei.cmu.edu/blog/using-v-models-for-testing/)
