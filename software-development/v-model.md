@@ -33,11 +33,15 @@ stands for verification model/ validation model
 - fixed & defined requirement
 - stable and available resource
 
-Personally I think V-Model aims on verify and validate each activity in the circle. By then, developers can head for an error-free and quality product. 
+**The pros and the cons**
+V-Model aims on verify and validate each activity in the circle. Maintaining
+- Consistency
+- Result-oriented
+- Straighforward & simple rules
 
 Though some downsides may be mentioned
-- does not support concurrent activities. 
-- hard to apply for project with complex and changable requirement
+- Does not support concurrent activities. 
+- Hard to apply for project with complex and changable requirement
 
 ---
 
