@@ -23,9 +23,12 @@ stands for verification model/ validation model
 
 
 **Scenarios for to apply**
-- Waterfall Model:
-	- short term project
-	- requirement are not changing frequently
-	- resources are stable and available
-- V-Model
-	- 
+- short term project
+- requirement are not changing frequently
+- resources are stable and available
+
+personally I think v model aims on verify and validate each activity in the circle. by then, developers can head for an error-free and quality product. 
+
+though some downsides may be mentioned
+- does not support concurrent activities. 
+- hard to apply for project with complex and changable requirement
