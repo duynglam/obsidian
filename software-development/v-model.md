@@ -5,7 +5,7 @@ tags: testing
 **V-Model**
 stands for verification model/ validation model
 
-**Keyword for Getting Started**
+**Keyword to start**
 - Waterfall Model: A sequential model divided into different phases of SDLC. Each stage is designed to perform a specific activity. Testing phase starts only after implementation (the last stage) of the system is done.
 - V-Model: A process where testing is done on each phase, happens parallel to development steps. 
 
@@ -17,9 +17,12 @@ stands for verification model/ validation model
 -  products get shipped out wrong
 - start all over again
 
-**Why V-Model is the Solution for Waterfall Model**
+**Why V-Model is the Solution**
 - each development step comes with a corresponding test phase
 - ensures the process move toward the same goal: build error-free product
+
+![[v-model.png]]
+
 
 **Core principles of V-Model**
 - In V-model, testing is done in hierarchy. It breaks down from high-level design to detailed designs.
